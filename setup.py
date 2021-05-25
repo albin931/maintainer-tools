@@ -10,7 +10,7 @@ with open(os.path.join(here, 'README.md')) as f:
 
 setuptools.setup(
     name='oca-maintainers-tools',
-    author='Odoo Community Association (OCA)',
+    author='HTIC Global',
     description='Set of tools to help managing Odoo Community projects',
     long_description=long_description,
     license='APGL3',

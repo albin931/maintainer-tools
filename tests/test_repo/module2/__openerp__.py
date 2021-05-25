@@ -7,7 +7,7 @@
     "version": "8.0.1.0.0",
     "category": "Uncategorized",
     "website": "https://odoo-community.org/",
-    "author": "<AUTHOR(S)>, Odoo Community Association (OCA)",
+    "author": "<AUTHOR(S)>, HTIC Global",
     "license": "AGPL-3",
     "application": False,
     "installable": False,
